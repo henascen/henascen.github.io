@@ -1,5 +1,5 @@
 current directory: /home/henry/blog/henascen.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/bin/ruby2.5 -r ./siteconf20210211-707-1ufr2gz.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20210320-25377-1qg11jw.rb extconf.rb
 creating Makefile
 
 current directory: /home/henry/blog/henascen.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -68,4 +68,4 @@ linking shared-object commonmarker/commonmarker.so
 
 current directory: /home/henry/blog/henascen.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20210211-707-uzdgew/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20210320-25377-ooklzn/commonmarker

@@ -1,5 +1,5 @@
 current directory: /home/henry/blog/henascen.github.io/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.7/ext/unf_ext
-/usr/bin/ruby2.5 -r ./siteconf20210211-707-e68std.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20210320-25377-1qtl07u.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
@@ -13,4 +13,4 @@ linking shared-object unf_ext.so
 
 current directory: /home/henry/blog/henascen.github.io/vendor/bundle/ruby/2.5.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20210211-707-hseedf
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20210320-25377-gprhiy
