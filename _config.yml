@@ -3,8 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Sharing ideas
-description: In this website I share ideas, things I have learned, understood
-or are in the process of entering my mind. The content is about the things I'm
-interested into.
+description: In this website I share ideas, things I have learned, understood or are in the process of entering my mind. The content is about the things I'm interested into.
 
 show_downloads: false
